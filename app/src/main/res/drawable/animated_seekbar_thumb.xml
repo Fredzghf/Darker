@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enterFadeDuration="500">
+    <item
+        android:state_pressed="true">
+        <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:height="60dp" android:width="2dp" android:gravity="center" android:start="-15dp"
+                android:end="-15dp">
+                <shape>
+                    <solid android:color="@color/color_selector_seekbar_thumb" />
+                </shape>
+            </item>
+            <item
+                android:start="-15dp"
+                android:end="-15dp"
+                android:gravity="center"
+                android:drawable="@drawable/ic_baseline_code_24"
+                android:height="30dp"
+                android:width="30dp" />
+        </layer-list>
+    </item>
+</selector>

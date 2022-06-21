@@ -1,0 +1,12 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="14dp" android:height="60dp" android:width="2dp">
+        <shape>
+            <solid android:color="@color/color_selector_seekbar_thumb" />
+        </shape>
+    </item>
+    <item
+        android:top="15dp"
+        android:drawable="@drawable/ic_baseline_code_24"
+        android:height="30dp"
+        android:width="30dp" />
+</layer-list>

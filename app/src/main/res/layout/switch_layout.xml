@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Switch android:id="@+id/switchForActionBar"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingRight="50px"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/AppTheme"
+    android:track="@drawable/track"
+    android:thumb="@drawable/thumb"/>
