@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/Fredzghf/BC/releases/tag/Release" target="_blank">
+    <a href="https://github.com/Fredzghf/Darker/releases/tag/Release" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0.0-blue?style=flat&label=version">
     </a>
 </div>
